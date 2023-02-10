@@ -8,7 +8,7 @@
     "email": "madelyncantrell@euron.com",
     "greeting": "Hello, Madelyn Cantrell! You have 10 unread messages.",
     "favoriteFruit": "strawberry",
-    "Password": "#jsK#Nct"
+    "password": "#jsK#Nct"
   },
   {
     "age": 26,
@@ -19,7 +19,7 @@
     "email": "lyndawright@rubadub.com",
     "greeting": "Hello, Lynda Wright! You have 10 unread messages.",
     "favoriteFruit": "apple",
-    "Password": "2LoCYRGi"
+    "password": "2LoCYRGi"
   },
   {
     "age": 23,
@@ -30,7 +30,7 @@
     "email": "brightjones@atomica.com",
     "greeting": "Hello, Bright Jones! You have 3 unread messages.",
     "favoriteFruit": "apple",
-    "Password": "Kfb@@Jjj"
+    "password": "Kfb@@Jjj"
   },
   {
     "age": 36,
@@ -41,7 +41,7 @@
     "email": "wrightbarber@zounds.com",
     "greeting": "Hello, Wright Barber! You have 8 unread messages.",
     "favoriteFruit": "strawberry",
-    "Password": "m49xHKcS"
+    "password": "m49xHKcS"
   },
   {
     "age": 23,
@@ -52,7 +52,7 @@
     "email": "amandabuckley@twiggery.com",
     "greeting": "Hello, Amanda Buckley! You have 6 unread messages.",
     "favoriteFruit": "strawberry",
-    "Password": "iaX00Vbu"
+    "password": "iaX00Vbu"
   },
   {
     "age": 33,
@@ -63,7 +63,7 @@
     "email": "oneilterrell@zilencio.com",
     "greeting": "Hello, Oneil Terrell! You have 9 unread messages.",
     "favoriteFruit": "banana",
-    "Password": "3JBEEfMO"
+    "password": "3JBEEfMO"
   },
   {
     "age": 45,
@@ -74,7 +74,7 @@
     "email": "jamicline@gracker.com",
     "greeting": "Hello, Jami Cline! You have 10 unread messages.",
     "favoriteFruit": "strawberry",
-    "Password": "FPVgGRnV"
+    "password": "FPVgGRnV"
   },
   {
     "age": 49,
@@ -85,7 +85,7 @@
     "email": "francisgray@zytrax.com",
     "greeting": "Hello, Francis Gray! You have 4 unread messages.",
     "favoriteFruit": "apple",
-    "Password": "1v3eSlPm"
+    "password": "1v3eSlPm"
   },
   {
     "age": 41,
@@ -96,6 +96,6 @@
     "email": "cervantesblack@apexia.com",
     "greeting": "Hello, Cervantes Black! You have 1 unread messages.",
     "favoriteFruit": "strawberry",
-    "Password": "j7ckMjcf"
+    "password": "j7ckMjcf"
   }
 ]
