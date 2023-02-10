@@ -1,9 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+    
 </template>
-
+  
 <script>
   import axios from 'axios';
   export default {
@@ -17,17 +15,15 @@
           this.cargarUsuarios();
       },
     methods:{
-      cargarUsuarios() {    
+      cargarUsuarios() {
+              
               axios.get('../json/Usuarios.json')
                   .then((respuesta) => {
                       console.log(respuesta);
                       console.log(respuesta.data);
-                  })
-                  .catch(e)
-                  {
-                    console.log(e);
-                  };
+                  });
           }
       }
     }
 </script>
+  
