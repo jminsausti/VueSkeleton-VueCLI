@@ -14,20 +14,9 @@
         }
       },
       mounted() {
-          this.cargarUsuarios();
       },
     methods:{
-      cargarUsuarios() {    
-              axios.get('../json/Usuarios.json')
-                  .then((respuesta) => {
-                      console.log(respuesta);
-                      console.log(respuesta.data);
-                  })
-                  .catch(e)
-                  {
-                    console.log(e);
-                  };
-          }
+      
       }
     }
 </script>
