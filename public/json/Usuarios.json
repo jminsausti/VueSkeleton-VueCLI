@@ -11,6 +11,17 @@
     "password": "#jsK#Nct"
   },
   {
+    "age": 50,
+    "eyeColor": "brown",
+    "name": "Jose Insausti",
+    "gender": "male",
+    "company": "CIFP Txurdinaga LHII",
+    "email": "jminsausti@fptxurdinaga.com",
+    "greeting": "Hello, 2DW3.",
+    "favoriteFruit": "grapes",
+    "password": "2dw3"
+  },
+  {
     "age": 26,
     "eyeColor": "blue",
     "name": "Lynda Wright",
