@@ -1,4 +1,4 @@
-# 1final-esqueleto
+# Vue 3 - Options API - esqueleto
 
 ## Project setup
 ```
